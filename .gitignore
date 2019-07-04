@@ -1,0 +1,12 @@
+*.odp
+target
+out
+.settings
+.classpath
+.project
+
+.idea/**
+!.idea/runConfigurations/
+.idea/runConfigurations/**
+!.idea/runConfigurations/server.xml
+!.idea/runConfigurations/client.xml
